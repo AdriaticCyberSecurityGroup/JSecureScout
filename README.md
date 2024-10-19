@@ -37,3 +37,21 @@ Using `python3 main.py -h` or `python3 main.py --help` will give you output whic
 | -d      | string | /       | Domain to test (example.com)                |
 | -n      | integer| /       | Number of links displayed from google dorks |
 | -o      | file   | /       | Output file (Will be in HTML format)        |
+
+## Example usages
+`python3 main.py -d acs-group.info -n 5 -o report.html`<br>
+This sets:
+* Target domain: acs-group.info
+* Number of dork links: 5
+* Output file: report.html
+
+### Tip
+When tool generates report, you can use CTRL+F to search for certain patterns manually (Such as `api`,`key`,`password` and more).
+
+## Feedback/Bugs
+In case of encountering any problems, bugs or just having idea on what to implement in this project, feel free to contact developer (Luka Miletic) at [lm@acsg.me](mailto:lm@acsg.me)<br<
+
+# Your security is our top priority.
+[<img src="./ACSG.png" />](https://acs-group.info/)
+
+
