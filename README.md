@@ -2,6 +2,7 @@
 <h3 align="center">Automate crawling, dorking and enumeration of HTML comments and Javascript files through CLI with tool written in Python, developed by <a href="https://acs-group.info">ACSG</a> Team!</h3>
 <h2>About</h2>
 <b>JSecureScout</b> is a premium-quality tool designed for Penetration Testers, Bug Bounty Hunters or any CyberSecurity Enthusiasts to automate certain security checks on web applications with a visual report.<br>
+
 Available functions are:
 * Using Google Dorks to gather web pages that are using JavaScript files or JavaScript tags
 * Gathering all the JavaScript files links
